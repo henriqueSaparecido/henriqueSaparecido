@@ -1,7 +1,6 @@
 ### Oi, eu sou Henrique S. Aparecido 
 
 - Estudante de Ciência da Computação na Unir
-- Estudo e tenho interesse em Front-End
 - Procuro me aperfeiçoar como programador 
 
 <div>
